@@ -1,0 +1,14 @@
+{"sheet":"items","columns":["id","name","tier","stack","minecraftBase","rustAsset","damage","verified"],
+"rows":[
+{"id":"rock","name":"Rock","tier":0,"stack":1,"minecraftBase":"stone_pickaxe","rustAsset":"asset.rock","damage":3,"verified":false},
+{"id":"torch","name":"Torch","tier":0,"stack":1,"minecraftBase":"torch","rustAsset":"asset.torch","damage":1,"verified":false},
+{"id":"wood","name":"Wood","tier":0,"stack":1000,"minecraftBase":"oak_log","rustAsset":"asset.wood","damage":null,"verified":false},
+{"id":"stone","name":"Stone","tier":0,"stack":1000,"minecraftBase":"cobblestone","rustAsset":"asset.stone","damage":null,"verified":false},
+{"id":"cloth","name":"Cloth","tier":0,"stack":1000,"minecraftBase":"white_wool","rustAsset":"asset.cloth","damage":null,"verified":false},
+{"id":"hatchet","name":"Stone Hatchet","tier":1,"stack":1,"minecraftBase":"stone_axe","rustAsset":"asset.hatchet","damage":6,"verified":false},
+{"id":"pickaxe","name":"Stone Pickaxe","tier":1,"stack":1,"minecraftBase":"stone_pickaxe","rustAsset":"asset.pickaxe","damage":6,"verified":false},
+{"id":"spear","name":"Wooden Spear","tier":1,"stack":1,"minecraftBase":"trident","rustAsset":"asset.spear","damage":10,"verified":false},
+{"id":"sleeping_bag","name":"Sleeping Bag","tier":1,"stack":1,"minecraftBase":"red_bed","rustAsset":"asset.sleeping_bag","damage":null,"verified":false},
+{"id":"workbench1","name":"Workbench Lv1","tier":1,"stack":1,"minecraftBase":"crafting_table","rustAsset":"asset.workbench1","damage":null,"verified":false},
+{"id":"satchel_charge","name":"Satchel Charge","tier":2,"stack":5,"minecraftBase":"tnt","rustAsset":"asset.satchel","damage":null,"verified":false}
+]}

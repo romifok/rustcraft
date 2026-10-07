@@ -1,0 +1,5 @@
+{"sheet":"raiders","columns":["id","name","minecraftBase","hp","weapon","targets","spawnRule"],
+"rows":[
+{"id":"scavenger","name":"Scavenger","minecraftBase":"pillager","hp":40,"weapon":"spear","targets":"wood_wall","spawnRule":"night, base has >=1 wall"},
+{"id":"breacher","name":"Breacher","minecraftBase":"vindicator","hp":60,"weapon":"satchel_charge","targets":"stone_wall","spawnRule":"night 3+, base has stone wall"}
+]}

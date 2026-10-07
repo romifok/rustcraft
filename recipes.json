@@ -1,0 +1,9 @@
+{"sheet":"recipes","columns":["id","output","outputQty","inputs","workbenchTier","seconds"],
+"rows":[
+{"id":"r_hatchet","output":"hatchet","outputQty":1,"inputs":{"wood":200,"stone":100},"workbenchTier":0,"seconds":10},
+{"id":"r_pickaxe","output":"pickaxe","outputQty":1,"inputs":{"wood":200,"stone":100},"workbenchTier":0,"seconds":10},
+{"id":"r_spear","output":"spear","outputQty":1,"inputs":{"wood":300},"workbenchTier":0,"seconds":15},
+{"id":"r_sleeping_bag","output":"sleeping_bag","outputQty":1,"inputs":{"cloth":30},"workbenchTier":0,"seconds":15},
+{"id":"r_workbench1","output":"workbench1","outputQty":1,"inputs":{"wood":500},"workbenchTier":0,"seconds":30},
+{"id":"r_satchel","output":"satchel_charge","outputQty":1,"inputs":{"wood":100,"cloth":10,"stone":50},"workbenchTier":1,"seconds":20}
+]}

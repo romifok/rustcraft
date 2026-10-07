@@ -1,0 +1,14 @@
+{"sheet":"assets","columns":["id","kind","sourceGame","bundlePath","format","fallback","verified"],
+"rows":[
+{"id":"asset.rock","kind":"icon","sourceGame":"rust","bundlePath":null,"format":null,"fallback":"minecraft icon","verified":false},
+{"id":"asset.torch","kind":"icon","sourceGame":"rust","bundlePath":null,"format":null,"fallback":"minecraft icon","verified":false},
+{"id":"asset.wood","kind":"icon","sourceGame":"rust","bundlePath":null,"format":null,"fallback":"minecraft icon","verified":false},
+{"id":"asset.stone","kind":"icon","sourceGame":"rust","bundlePath":null,"format":null,"fallback":"minecraft icon","verified":false},
+{"id":"asset.cloth","kind":"icon","sourceGame":"rust","bundlePath":null,"format":null,"fallback":"minecraft icon","verified":false},
+{"id":"asset.hatchet","kind":"model","sourceGame":"rust","bundlePath":null,"format":null,"fallback":"icon on stone_axe","verified":false},
+{"id":"asset.pickaxe","kind":"model","sourceGame":"rust","bundlePath":null,"format":null,"fallback":"icon on stone_pickaxe","verified":false},
+{"id":"asset.spear","kind":"model","sourceGame":"rust","bundlePath":null,"format":null,"fallback":"icon on trident","verified":false},
+{"id":"asset.sleeping_bag","kind":"icon","sourceGame":"rust","bundlePath":null,"format":null,"fallback":"minecraft icon","verified":false},
+{"id":"asset.workbench1","kind":"icon","sourceGame":"rust","bundlePath":null,"format":null,"fallback":"minecraft icon","verified":false},
+{"id":"asset.satchel","kind":"model","sourceGame":"rust","bundlePath":null,"format":null,"fallback":"icon on tnt","verified":false}
+]}

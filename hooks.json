@@ -1,0 +1,10 @@
+{"sheet":"hooks","columns":["id","system","fabricEntry","purpose","verified"],
+"rows":[
+{"id":"h_spawn","system":"world spawn","fabricEntry":"ServerPlayerEvents / spawn handler","purpose":"island spawn, strip inventory, give rock+torch","verified":false},
+{"id":"h_craftui","system":"crafting UI","fabricEntry":"custom ScreenHandler","purpose":"Rust-style crafting menu, opens ~1 min in","verified":false},
+{"id":"h_blockdmg","system":"block damage","fabricEntry":"mixin on block break progress","purpose":"apply wall HP and material multipliers","verified":false},
+{"id":"h_explosion","system":"explosions","fabricEntry":"explosion handler","purpose":"satchel damage to walls by material","verified":false},
+{"id":"h_raiders","system":"mob spawning","fabricEntry":"spawn rules","purpose":"raiders per raiders.json","verified":false},
+{"id":"h_assets","system":"asset loading","fabricEntry":"resource reload listener","purpose":"load Rust sounds/icons/models from {game:rust}","verified":false},
+{"id":"h_join","system":"multiplayer","fabricEntry":"integrated server open to LAN","purpose":"log 'Hosting at ' line for Melty join","verified":false}
+]}

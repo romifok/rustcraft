@@ -1,0 +1,5 @@
+{"sheet":"building","columns":["id","name","minecraftBlock","hp","cost","upgradeFrom","damageMultipliers"],
+"rows":[
+{"id":"wood_wall","name":"Wood Wall","minecraftBlock":"oak_planks","hp":250,"cost":{"wood":200},"upgradeFrom":null,"damageMultipliers":{"melee":1.0,"explosive":1.0}},
+{"id":"stone_wall","name":"Stone Wall","minecraftBlock":"stone_bricks","hp":500,"cost":{"stone":300},"upgradeFrom":"wood_wall","damageMultipliers":{"melee":0.5,"explosive":1.0}}
+]}
